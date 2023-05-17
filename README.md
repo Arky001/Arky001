@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhay Raj</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> I'm Abhay Raj</h1>
 <img align="right" alt="Coder" width="300" src="https://www.linkpicture.com/q/img_69.png">
 <h5>As a Python enthusiast, I find joy in crafting efficient and elegant code to solve complex problems. Whether it's developing web applications, automating tasks, or diving into data analysis, Python has become my go-to language for its simplicity, versatility, and robustness.<br><br>
   
