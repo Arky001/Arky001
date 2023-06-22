@@ -5,7 +5,7 @@ Currently pursuing my <b>B.Tech degree</b>, specializing in <b>Computer Science 
 Beyond academics, I actively engage in personal projects to keep up with the latest trends and advancements in the ever-evolving realm of computer science. Collaboration with fellow programmers, participation in coding competitions, and staying abreast of industry developments are all integral parts of my ongoing learning process.<br><br>
 In addition to Python, I have experience with other programming languages such as C, Java, and JavaScript. This diverse skill set enhances my problem-solving capabilities and allows me to approach challenges from different angles. I firmly believe in the power of continuous learning and strive to stay ahead in this dynamic field.<br><br>
 Being part of this vibrant community is truly exciting, as it provides opportunities to share knowledge, learn from others, and contribute to the collective growth of aspiring coders. Together, let's embark on this thrilling journey of innovation and exploration!<br><br>
-<b></b>Thank you for welcoming me, and I am eagerly looking forward to connecting with all of you.</p></p>
+<b>Thank you for welcoming me, and I am eagerly looking forward to connecting with all of you.</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
