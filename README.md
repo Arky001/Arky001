@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> I'm Abhay Raj</h1>
 <img align="right" alt="Coder" width="300" src="https://www.linkpicture.com/q/img_69.png">
-<h5>"As a passionate computer science engineer, I derive great satisfaction from creating efficient and elegant solutions to tackle complex problems. The world of programming offers endless possibilities, and I find joy in exploring various domains, from web development to task automation and data analysis. Python, with its simplicity, versatility, and robustness, has emerged as my preferred language for these endeavors.<br><br>
+<h5>As a passionate computer science engineer, I derive great satisfaction from creating efficient and elegant solutions to tackle complex problems. The world of programming offers endless possibilities, and I find joy in exploring various domains, from web development to task automation and data analysis. Python, with its simplicity, versatility, and robustness, has emerged as my preferred language for these endeavors.<br><br>
 Currently pursuing my B.Tech degree, specializing in computer science, I have been exposed to a wide range of subjects, including software development, algorithms, and computer systems. This academic journey has provided me with a solid foundation to delve into the intricacies of the field. I am continuously seeking new challenges and opportunities to expand my coding skills and broaden my knowledge base.<br><br>
 Beyond academics, I actively engage in personal projects to keep up with the latest trends and advancements in the ever-evolving realm of computer science. Collaboration with fellow programmers, participation in coding competitions, and staying abreast of industry developments are all integral parts of my ongoing learning process.<br><br>
 In addition to Python, I have experience with other programming languages such as C, Java, and JavaScript. This diverse skill set enhances my problem-solving capabilities and allows me to approach challenges from different angles. I firmly believe in the power of continuous learning and strive to stay ahead in this dynamic field.<br><br>
 Being part of this vibrant community is truly exciting, as it provides opportunities to share knowledge, learn from others, and contribute to the collective growth of aspiring coders. Together, let's embark on this thrilling journey of innovation and exploration!<br><br>
-Thank you for welcoming me, and I am eagerly looking forward to connecting with all of you."</h3>
+Thank you for welcoming me, and I am eagerly looking forward to connecting with all of you.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
